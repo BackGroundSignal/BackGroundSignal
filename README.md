@@ -2,7 +2,7 @@
 - 👀 I’m interested in websites and apps
 - 🌱 I’m currently learning javascript, python, html, css
 - 💞️ I’m looking to collaborate on nothing I dont trust yall lmao 
-- 📫 How to reach me Discord : BackGroundSignal#9048 i dont even check my email 
+- 📫 How to reach me : dont
 
 <!---
 BackGroundSignal/BackGroundSignal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
